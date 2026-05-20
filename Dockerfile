@@ -1,0 +1,1 @@
+FROM ghcr.io/renovatebot/renovate-approve-bot:main@sha256:67d6ddbc0f0cef9315d437d5a8b5990fe6fa8a2bdd92919d80b09f2dac0846b7
